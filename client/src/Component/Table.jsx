@@ -30,11 +30,11 @@ export default function Table({ Deletuser, UpdatedUser }) {
                     <div className="table-title">
                         <div className="row">
                             <div className="col-sm-6">
-                                <h2>Manage <b>Employees</b></h2>
+                                <h2><b>DISBURSEMENT VOUCHER RECORDS</b></h2>
                             </div>
                             <div className="col-sm-6">
                                 <a href="#" className="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEmployeeModal">
-                                    <i className="material-icons">&#xE147;</i> <span>Add New Employee</span>
+                                    <i className="material-icons">&#xE147;</i> <span>Add Voucher</span>
                                 </a>
                             </div>
                         </div>

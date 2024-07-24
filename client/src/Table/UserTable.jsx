@@ -69,9 +69,6 @@ export default function UserTable() {
             <UpdatedUser handleOnSubmit={handleOnSubmit} value={value} handlechange={handlechange}></UpdatedUser>
             <DeletUser handleUserDelet={handleUserDelet} ></DeletUser>
 
-
-
-
         </>
     )
 }
