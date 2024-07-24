@@ -25,12 +25,12 @@ export default function Table({ Deletuser, UpdatedUser }) {
 
     return (
         <>
-            <div className="container">
+            <div className="bg-teal-400">
                 <div className="table-wrapper">
                     <div className="table-title">
                         <div className="row">
                             <div className="col-sm-6">
-                                <h2><b>DISBURSEMENT VOUCHER RECORDS</b></h2>
+                                <h2 className='text-primary underline'><b>DISBURSEMENT VOUCHER RECORDS</b></h2>
                             </div>
                             <div className="col-sm-6">
                                 <a href="#" className="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEmployeeModal">
